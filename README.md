@@ -7,3 +7,4 @@ Histórico de ações: data, descrição;
 
 Integração com: Whatsapp, Facebook, Push;
 
+  
